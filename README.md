@@ -6,6 +6,8 @@ A super simple cronjob to delete folders on a given date.
 * `cron.php`: The cronjob you can execute once per day
 * `deletelist.txt`: The list of folders that should be deleted
 
+![Image of Self-Destruct Overview page](https://user-images.githubusercontent.com/2188617/67633316-b9feeb00-f8ae-11e9-98c5-cae6ccf3638f.PNG)
+
 # Setup
 1. Add the project to your root folder. The script is designed to delete folders that are within the parent folder (`../*`).
 2. Add the folders you like to delete in the future to deletelist.txt. Add the dates in the format `YYYY-MM-DD` and make sure single digits have a leading zero.
