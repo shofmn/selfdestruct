@@ -17,3 +17,5 @@ A super simple cronjob to delete folders on a given date.
 # Remarks
 * The script will ignore lines in deletelist.txt that start with `#` or are empty
 * On the overview page you have an additional column that tells you if the folder still exists
+* If you add `*` as folder, everything inside your root folder (including the selfdestruct scripts) will get deleted
+* **Use of this tool at your own risk!**
