@@ -1,0 +1,4 @@
+# Folder name; Creation Date; Deletion Date; Comment
+exampleFolder1;2018-12-26;2019-12-28;Pictures of Christmas 2018
+exampleFolder2;2019-06-18;2019-10-18;Team Event in the Black Forest
+exampleFolder3;2019-10-02;2020-03-01;Code example for John
